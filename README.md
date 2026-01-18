@@ -1,31 +1,31 @@
-# 👋 Hi there, I'm Chandni Kumari
+<h1 align="center">Hi 👋 I'm Chandni Kumari</h1>
 
-🎓 B.Tech Computer Science Engineering Student  
-💻 Backend Developer (Django | Flask)  
-📊 Data Analyst | 🤖 Machine Learning Learner  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=Backend+Developer+Django+%7C+Flask;Data+Analyst;Machine+Learning+Learner;Python+Developer" />
+</p>
 
 ---
 
-## 💫 About Me
+## 👩‍💻 About Me
 
-I am a backend-focused software developer with strong experience in
-**Python, Django, and Flask**, along with hands-on skills in
+I am a **backend-focused software developer** with strong experience in  
+**Python, Django, and Flask**, along with hands-on skills in  
 **data analytics and machine learning**.
 
-I enjoy building scalable backend systems, REST APIs, and
-data-driven applications, and I’m currently strengthening my
-skills in machine learning and model deployment.
+I enjoy building **scalable backend systems**, **REST APIs**, and  
+**data-driven applications**, and I’m currently strengthening my skills in  
+**machine learning and model deployment**.
 
 ---
 
 ## 🌱 Currently Working On
 
-- Backend development using Django & Flask  
-- REST API design and integration  
-- SQL queries and database optimization  
-- Data cleaning, EDA & visualization  
-- Machine Learning algorithms  
-- Model evaluation & improvement  
+- Backend development using **Django & Flask**
+- REST API design and integration
+- SQL queries and database optimization
+- Data cleaning, **EDA & visualization**
+- Machine Learning algorithms
+- Model evaluation & performance improvement
 
 ---
 
@@ -78,46 +78,71 @@ skills in machine learning and model deployment.
 ## 📌 Featured Projects
 
 | Project | Description | Tech Stack |
-|-------|-------------|------------|
-| 🌿 Branch ML Model | End-to-end ML pipeline with preprocessing and evaluation | Python, Scikit-learn |
-| 🔐 Django REST API System | Backend application with authentication & CRUD operations | Django, DRF |
-| 🌐 Flask Web Application | Web backend with database integration | Flask, SQL |
-| 📊 Data Analytics Project | Data analysis, EDA and visualization | Pandas, SQL |
+|------|------------|-----------|
+| 🌿 Branch ML Model | End-to-end ML pipeline with preprocessing & evaluation | Python, Scikit-learn |
+| 🔐 Django REST API System | Backend app with authentication & CRUD | Django, DRF |
+| 🌐 Flask Web Application | Backend system with database integration | Flask, SQL |
+| 📊 Data Analytics Project | Data analysis, EDA & visualization | Pandas, SQL |
 | 🧠 Disease Prediction System | ML classification model | Python, ML |
-| 📈 Customer Segmentation | K-Means clustering on customer data | Python, ML |
+| 📈 Customer Segmentation | K-Means clustering | Python, ML |
+
+---
+
+## 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chandni202245/Chandni202245/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandni202245&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandni202245&show_icons=true&theme=radical"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandni202245&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandni202245&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandni202245&theme=radical&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
 ## 🎯 Coding Practice
 
-- LeetCode – Data Structures & Algorithms  
-- GeeksforGeeks – Python, SQL, ML  
-- HackerRank – Python & SQL  
+- LeetCode — Data Structures & Algorithms  
+- GeeksforGeeks — Python, SQL, ML  
+- HackerRank — Python & SQL  
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: chandniikumari12@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/chandni-kumari-/  
+- 📧 **Email:** chandniikumari12@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/chandni-kumari-/  
 
 ---
 
 ## 🐍 Contribution Activity
 
-![GitHub Snake](https://github.com/Chandni202245/Chandni202245/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Chandni202245/Chandni202245/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Chandni202245/Chandni202245/output/github-contribution-grid-snake.svg" />
+    <img alt="github snake" src="https://raw.githubusercontent.com/Chandni202245/Chandni202245/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
-⭐ “Creating data-driven applications with Python and ML.”
-
-- ⚡ Fun fact: ...
--->
+⭐ **“Creating data-driven applications with Python and Machine Learning.”**
