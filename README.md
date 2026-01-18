@@ -118,8 +118,8 @@ I enjoy building **scalable backend systems**, **REST APIs**, and
 
 ## 🎯 Coding Practice
 
-- LeetCode — Data Structures & Algorithms  
-- GeeksforGeeks — Python, SQL, ML  
+- LeetCode — Data Structures & Algorithms , SQL
+- GeeksforGeeks — Python, ML  
 - HackerRank — Python & SQL  
 
 ---
