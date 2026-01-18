@@ -8,24 +8,24 @@
 
 ## 👩‍💻 About Me
 
-I am a **backend-focused software developer** with strong experience in  
-**Python, Django, and Flask**, along with hands-on skills in  
+I am a **backend-focused software developer** skilled in  
+**Python, Django, and Flask**, with strong interest in  
 **data analytics and machine learning**.
 
-I enjoy building **scalable backend systems**, **REST APIs**, and  
-**data-driven applications**, and I’m currently strengthening my skills in  
-**machine learning and model deployment**.
+I enjoy building **REST APIs**, **scalable backend systems**, and  
+**data-driven applications**, and I am currently learning  
+**machine learning model development and deployment**.
 
 ---
 
 ## 🌱 Currently Working On
 
-- Backend development using **Django & Flask**
-- REST API design and integration
-- SQL queries and database optimization
-- Data cleaning, **EDA & visualization**
-- Machine Learning algorithms
-- Model evaluation & performance improvement
+- Django & Flask backend development  
+- REST API design & integration  
+- SQL optimization and analytics  
+- Data cleaning and EDA  
+- Machine Learning algorithms  
+- Model evaluation techniques  
 
 ---
 
@@ -35,8 +35,6 @@ I enjoy building **scalable backend systems**, **REST APIs**, and
 - Python  
 - SQL  
 
----
-
 ### ⚙️ Backend Development
 - Django  
 - Django REST Framework  
@@ -45,17 +43,12 @@ I enjoy building **scalable backend systems**, **REST APIs**, and
 - Authentication & Authorization  
 - PostgreSQL / SQLite  
 
----
-
 ### 📊 Data Analytics
 - Pandas  
 - NumPy  
 - Excel  
 - Matplotlib  
 - Seaborn  
-- Exploratory Data Analysis (EDA)  
-
----
 
 ### 🤖 Machine Learning
 - Scikit-learn  
@@ -63,12 +56,8 @@ I enjoy building **scalable backend systems**, **REST APIs**, and
 - Decision Trees, Random Forest  
 - KNN, Naive Bayes  
 - K-Means Clustering  
-- Feature Engineering  
-- Model Evaluation  
 
----
-
-### 🛠 Tools & Technologies
+### 🛠 Tools
 - Git & GitHub  
 - VS Code  
 - Jupyter Notebook  
@@ -77,33 +66,25 @@ I enjoy building **scalable backend systems**, **REST APIs**, and
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-|------|------------|-----------|
-| 🌿 Branch ML Model | End-to-end ML pipeline with preprocessing & evaluation | Python, Scikit-learn |
-| 🔐 Django REST API System | Backend app with authentication & CRUD | Django, DRF |
-| 🌐 Flask Web Application | Backend system with database integration | Flask, SQL |
-| 📊 Data Analytics Project | Data analysis, EDA & visualization | Pandas, SQL |
-| 🧠 Disease Prediction System | ML classification model | Python, ML |
-| 📈 Customer Segmentation | K-Means clustering | Python, ML |
+| Project | Description | Tech |
+|------|-------------|------|
+| 🌿 Branch ML Model | End-to-end ML pipeline | Python, Scikit-learn |
+| 🔐 Django REST API | Auth + CRUD backend | Django, DRF |
+| 🌐 Flask App | Backend system | Flask, SQL |
+| 📊 Data Analytics | EDA & visualization | Pandas |
+| 🧠 Disease Prediction | ML classification | Python |
+| 📈 Customer Segmentation | Clustering | ML |
 
 ---
 
-## 🧊 3D Contribution Graph
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chandni202245/Chandni202245/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandni202245&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandni202245&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandni202245&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandni202245&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -111,27 +92,21 @@ I enjoy building **scalable backend systems**, **REST APIs**, and
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandni202245&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandni202245&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-## 🎯 Coding Practice
+## 🧊 3D Contribution Graph  
+*(appears after GitHub Action runs successfully)*
 
-- LeetCode — Data Structures & Algorithms , SQL
-- GeeksforGeeks — Python, ML  
-- HackerRank — Python & SQL  
-
----
-
-## 📫 Connect With Me
-
-- 📧 **Email:** chandniikumari12@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/chandni-kumari-/  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chandni202245/Chandni202245/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -139,9 +114,16 @@ I enjoy building **scalable backend systems**, **REST APIs**, and
       srcset="https://raw.githubusercontent.com/Chandni202245/Chandni202245/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/Chandni202245/Chandni202245/output/github-contribution-grid-snake.svg" />
-    <img alt="github snake" src="https://raw.githubusercontent.com/Chandni202245/Chandni202245/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/Chandni202245/Chandni202245/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: chandniikumari12@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/chandni-kumari-/  
 
 ---
 
