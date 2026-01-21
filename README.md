@@ -41,7 +41,8 @@ I enjoy building **REST APIs**, **scalable backend systems**, and
 - Flask  
 - REST APIs  
 - Authentication & Authorization  
-- PostgreSQL / SQLite  
+- PostgreSQL / SQLite
+- MySQL
 
 ### 📊 Data Analytics
 - Pandas  
