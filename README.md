@@ -1,29 +1,42 @@
 <h1 align="center">Hi 👋 I'm Chandni Kumari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Python+Engineer;Machine+Learning+Enthusiast;Data+Analytics+%26+Visualization;Building+Scalable+Backend+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Python+Engineer;Machine+Learning+Learner;Data+Analytics+%26+Visualization;Building+Scalable+Backend+Systems" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a **backend-focused software developer** with strong foundations in **computer science, data engineering, and machine learning**.
+I am a **backend-focused software developer** with strong foundations in **computer science, data engineering, and data analytics**, and I am currently **learning machine learning**.
 
-I specialize in building **scalable backend systems**, **RESTful APIs**, and **data-driven applications** using Python-based technologies. Alongside backend development, I actively work with **data analytics, big data tools, and machine learning models** to convert raw data into meaningful insights.
+I specialize in building **scalable backend systems**, **RESTful APIs**, and **data-driven applications** using Python-based technologies. I enjoy transforming raw data into meaningful insights and developing reliable backend architectures.
 
-I believe in writing **clean, optimized, and production-ready code** while continuously upgrading my skills.
+I focus on writing **clean, optimized, and production-ready code**.
 
 ---
 
 ## 🌱 Currently Working On
 
-* Advanced Django & Flask backend development
+* Django & Flask backend development
 * REST API architecture & security
 * SQL optimization & database design
-* Data analytics and dashboarding
-* Machine learning model building
-* Big data processing with Spark & Hadoop
+* Data analytics & dashboarding
+* Machine learning fundamentals
+* Big data tools (Spark & Hadoop)
+
+---
+
+## 📌 Featured Projects
+
+| Project                      | Description                            | Technologies         |
+| ---------------------------- | -------------------------------------- | -------------------- |
+| 🌿 Branch ML Model           | End-to-end ML pipeline with evaluation | Python, Scikit-learn |
+| 🔐 Django REST API           | Secure authentication & CRUD APIs      | Django, DRF          |
+| 🌐 Flask Backend App         | Lightweight backend system             | Flask, SQL           |
+| 📊 Data Analytics Project    | EDA & visualization                    | Pandas, Matplotlib   |
+| 🧠 Disease Prediction System | ML classification model                | Python, ML           |
+| 📈 Customer Segmentation     | Clustering & insights                  | Machine Learning     |
 
 ---
 
@@ -31,136 +44,131 @@ I believe in writing **clean, optimized, and production-ready code** while conti
 
 <table>
 <tr>
-
 <td width="20%" valign="top">
 
 ### 🔤 Languages
-- C++
-- Python
-- Java
-- R
-- Scala
+
+* Python
+* C++
+* Java
+* R
+* Scala
+* SQL
 
 </td>
-
 <td width="20%" valign="top">
 
 ### ⚙️ Backend
-- Django
-- Flask
-- Django REST Framework
-- REST APIs
+
+* Django
+* Django REST Framework
+* Flask
+* REST APIs
+* Authentication
 
 </td>
-
 <td width="20%" valign="top">
 
 ### 🗄️ Databases
-- MySQL
-- PostgreSQL
-- SQLite
+
+* MySQL
+* PostgreSQL
+* SQLite
 
 </td>
-
 <td width="20%" valign="top">
 
 ### 📊 Data Analytics
-- Pandas
-- NumPy
-- Excel
-- Tableau
-- Power BI
-- Matplotlib
+
+* Pandas
+* NumPy
+* Excel
+* Matplotlib
+* Seaborn
+* Tableau
+* Power BI
 
 </td>
-
 <td width="20%" valign="top">
 
-### 🤖 ML & Big Data
-- Scikit-learn *(learning)*
-- Hadoop
-- Hive
-- HBase
-- Apache Spark
-- Kafka
+### 🤖 ML & Big Data *(Learning)*
+
+* Scikit-learn
+* ML Algorithms
+* Hadoop
+* Hive
+* HBase
+* Apache Spark
+* Kafka
 
 </td>
-
 </tr>
 </table>
 
 ### 🛠 Developer Tools
-- VS Code  
-- Jupyter Notebook  
-- Git  
-- GitHub  
+
+* VS Code
+* Jupyter Notebook
+* Git
+* GitHub
+
 ---
 
-### 🤖 Machine Learning (Learning)
+## 📊 GitHub Statistics
 
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=matplotlib\&logoColor=black)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandni202245&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
-</td>
-<td valign="top" width="25%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandni202245&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-### ⚙️ Backend & Web
+---
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge\&logo=django\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+## 🏆 GitHub Trophies
 
-</td>
-<td valign="top" width="25%">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandni202245&theme=radical&no-frame=true&margin-w=15" />
+</p>
 
-### 🗄️ Databases
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+## 📈 Contribution Activity
 
-### 📊 Analytics & BI
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandni202245&bg_color=0d1117&color=00f2ff&line=00f2ff&point=ffffff&hide_border=true" width="100%" />
+</p>
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+---
 
-</td>
-<td valign="top" width="25%">
+## 🧊 3D Contribution Graph
 
-### ☁️ Big Data
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chandni202245/Chandni202245/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
 
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge\&logo=apachehadoop\&logoColor=black)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge\&logo=apachehive\&logoColor=black)
-![HBase](https://img.shields.io/badge/HBase-000000?style=for-the-badge)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge\&logo=apachespark\&logoColor=black)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge\&logo=apachekafka)
+---
 
-### 🤖 Machine Learning
+## 🐍 Contribution Snake
 
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=matplotlib\&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Chandni202245/Chandni202245/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Chandni202245/Chandni202245/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/Chandni202245/Chandni202245/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-</td>
-</tr>
-</table>
+---
 
-### 🛠 Developer Tools
+## 🌐 Connect With Me
 
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+* 📧 **Email:** [chandniikumari12@gmail.com](mailto:chandniikumari12@gmail.com)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/chandni-kumari-/](https://www.linkedin.com/in/chandni-kumari-/)
+* ✍️ **Medium:** [https://medium.com/@ck623324](https://medium.com/@ck623324)
 
 ---
 
