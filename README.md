@@ -42,6 +42,10 @@ I focus on writing **clean, optimized, and production-ready code**.
 
 ## 💻 Technical Skills
 
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
+
 ### 🔤 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
@@ -50,6 +54,38 @@ I focus on writing **clean, optimized, and production-ready code**.
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge\&logo=scala\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+</td>
+<td width="25%" valign="top">
+
+### ⚙️ Backend Development
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge\&logo=django\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+</td>
+<td width="25%" valign="top">
+
+### 🌐 Web Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+
+</td>
+<td width="25%" valign="top">
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -115,18 +151,6 @@ I focus on writing **clean, optimized, and production-ready code**.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandni202245&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandni202245&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -142,15 +166,6 @@ I focus on writing **clean, optimized, and production-ready code**.
 </p>
 
 ---
-
-## 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chandni202245/Chandni202245/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
