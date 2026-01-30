@@ -27,90 +27,81 @@ I believe in writing **clean, optimized, and production-ready code** while conti
 
 ---
 
-## 📌 Featured Projects
-
-| Project                      | Description                            | Technologies         |
-| ---------------------------- | -------------------------------------- | -------------------- |
-| 🌿 Branch ML Model           | End-to-end ML pipeline with evaluation | Python, Scikit-learn |
-| 🔐 Django REST API           | Secure authentication & CRUD APIs      | Django, DRF          |
-| 🌐 Flask Backend App         | Lightweight backend system             | Flask, SQL           |
-| 📊 Data Analytics Project    | EDA & data visualization               | Pandas, Matplotlib   |
-| 🧠 Disease Prediction System | ML-based classification model          | Python, ML           |
-| 📈 Customer Segmentation     | Clustering & insights                  | Machine Learning     |
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandni202245&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandni202245&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandni202245&theme=radical&no-frame=true&margin-w=15" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandni202245&bg_color=0d1117&color=00f2ff&line=00f2ff&point=ffffff&hide_border=true" width="100%" />
-</p>
-
----
-
-## 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chandni202245/Chandni202245/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Chandni202245/Chandni202245/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Chandni202245/Chandni202245/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/Chandni202245/Chandni202245/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-* 📧 **Email:** [chandniikumari12@gmail.com](mailto:chandniikumari12@gmail.com)
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/chandni-kumari-/](https://www.linkedin.com/in/chandni-kumari-/)
-* ✍️ **Medium:** [https://medium.com/@ck623324](https://medium.com/@ck623324)
-
----
-
-## 💻 Tech Stack
+## 💻 Technical Skills
 
 <table>
 <tr>
-<td valign="top" width="25%">
 
-### 🔤 Programming Languages
+<td width="20%" valign="top">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge\&logo=scala\&logoColor=white)
+### 🔤 Languages
+- C++
+- Python
+- Java
+- R
+- Scala
+
+</td>
+
+<td width="20%" valign="top">
+
+### ⚙️ Backend
+- Django
+- Flask
+- Django REST Framework
+- REST APIs
+
+</td>
+
+<td width="20%" valign="top">
+
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+- SQLite
+
+</td>
+
+<td width="20%" valign="top">
+
+### 📊 Data Analytics
+- Pandas
+- NumPy
+- Excel
+- Tableau
+- Power BI
+- Matplotlib
+
+</td>
+
+<td width="20%" valign="top">
+
+### 🤖 ML & Big Data
+- Scikit-learn *(learning)*
+- Hadoop
+- Hive
+- HBase
+- Apache Spark
+- Kafka
+
+</td>
+
+</tr>
+</table>
+
+### 🛠 Developer Tools
+- VS Code  
+- Jupyter Notebook  
+- Git  
+- GitHub  
+---
+
+### 🤖 Machine Learning (Learning)
+
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=matplotlib\&logoColor=black)
 
 </td>
 <td valign="top" width="25%">
@@ -163,6 +154,13 @@ I believe in writing **clean, optimized, and production-ready code** while conti
 </td>
 </tr>
 </table>
+
+### 🛠 Developer Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
