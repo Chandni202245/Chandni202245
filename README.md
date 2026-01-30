@@ -142,11 +142,12 @@ I focus on writing **clean, optimized, and production-ready code**.
 
 ---
 
-## 🧊 3D Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chandni202245/Chandni202245/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandni202245&bg_color=0d1117&color=00f2ff&line=00f2ff&point=ffffff&hide_border=true" />
 </p>
+
 
 ---
 
